@@ -10,4 +10,4 @@ I'm Kamil, a high school student and a hobby Python developer. I intend to learn
 
 ### 🧱 Projects I have contributed to
 * An unofficial [application](https://github.com/wulkanowy/wulkanowy) for UONET+ based school registers,
-* A polish [translation](https://github.com/studzink/polytopia) for a mobile game.
+* A polish [translation](https://github.com/studzinskik/polytopia) for a mobile game.
