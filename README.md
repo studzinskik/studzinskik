@@ -1,13 +1,9 @@
 ## 👋 Hi there!
 
-I'm Kamil, a high school student and a hobby Python developer. I intend to learn Kotlin and JavaScript in the near future.
+How'd you end up here?
 
-### 🖥️ Programming languages I am fluent in
-* Python
-* Lua
-
-<!--- ### 🎓 Education -->
-
-### 🧱 Projects I have contributed to
+### Public contributions
 * An unofficial [application](https://github.com/wulkanowy/wulkanowy) for UONET+ based school registers,
 * A polish [translation](https://github.com/studzinskik/polytopia) for a mobile game.
+
+I usually develop private stuff for personal use, thus the short list of public contributions.
