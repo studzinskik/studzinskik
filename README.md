@@ -2,7 +2,7 @@
 
 How'd you end up here?
 
-### Public contributions
+### My public contributions
 * An unofficial [application](https://github.com/wulkanowy/wulkanowy) for UONET+ based school registers,
 * A polish [translation](https://github.com/studzinskik/polytopia) for a mobile game.
 
